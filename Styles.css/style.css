@@ -122,16 +122,16 @@
   }
   
   /* Makes colors */ 
-  .color-red {
+  .color-blue {
     background: #274274;
   }
   
-  .color-orange {
+  .color-grey {
     background: #808080;
   }
   
-  .color-yellow {
-    background: #808080;
+  .color-black {
+    background:#000000;
   }
   
   .color-green {
