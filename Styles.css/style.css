@@ -123,15 +123,15 @@
   
   /* Makes colors */ 
   .color-red {
-    background: red;
+    background: #274274;
   }
   
   .color-orange {
-    background: orange;
+    background: #808080;
   }
   
   .color-yellow {
-    background: yellow;
+    background: #808080;
   }
   
   .color-green {
