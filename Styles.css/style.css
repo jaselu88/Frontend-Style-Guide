@@ -134,25 +134,18 @@
     background:#000000;
   }
   
-  .color-green {
-    background: green;
+  .color-red {
+    background: #730000;
   }
   
-  .color-blue {
-    background: blue;
+  .color-yellow {
+    background:#FBAE17;
   }
   
-  .color-purple {
-    background: indigo;
+  .color-white {
+    background:#FFFFFF;
   }
   
-  .color-black {
-    background: black;
-  }
-  
-  .color-gray {
-    background: gray;
-  }
   
   /* 
   =========================== 
