@@ -67,14 +67,14 @@
   h4,
   h5,
   h6 {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     color: navy;
     line-height: 1em;
   }
   
   /* Sets up font-weights for headers */ 
   h1 {
-    font-weight: 700;
+    font-weight: 900;
   }
   
   h2,
