@@ -14,17 +14,17 @@
   ====================================
   */
   nav a {
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-family: "Merriweather Sans", "Merriweather Sans Regular", "Source Sans", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
     padding: 0.5em 0.5em 0.5em 0.5em;
   }
   
   a {
-    color: blue;
+    color:#274274;
     transition: color 0.25s;
   }
   
   a:hover {
-    color: magenta;
+    color: #730000;
     font-weight: bold;
   }
   
@@ -160,7 +160,7 @@
     padding: 5px;
     margin: 20px;
     font-family: "Merriweather Sans", sans-serif;
-    font-weight: 400;
+    font-weight: 800;
   }
   
   .button-normal {
