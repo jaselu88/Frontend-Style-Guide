@@ -76,7 +76,7 @@
   h1 {
     font-weight: 700;
   }
-  
+
   h2,
   h3,
   h4,
@@ -169,8 +169,13 @@
   }
   
   .button-hover {
-    background: #808080;
+    background:#808080;
     color:#274274;
+  }
+
+  .button-inactive {
+    background: #451F24;
+    color:#FFFFFF;
   }
   
   
