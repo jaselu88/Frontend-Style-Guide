@@ -55,7 +55,7 @@
   
   /* Sets up font-face for body copy */ 
   body {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "Source Sans Pro Regular", sans-serif;
     color: black;
     line-height: 1.4em;
   }
@@ -91,11 +91,11 @@
   }
   
   .type-faces-01 {
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
   }
   
   .type-faces-02 {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
   }
   
   
