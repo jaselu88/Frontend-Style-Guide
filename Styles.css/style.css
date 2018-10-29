@@ -73,7 +73,10 @@
   }
   
   /* Sets up font-weights for headers */ 
-  h1 
+  h1 {
+    font-weight: 700;
+  }
+  
   h2,
   h3,
   h4,
